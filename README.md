@@ -3,7 +3,7 @@ C++ program that reads in questions and answers from text file and quizzes the u
 
 **How to run program**
 - use makefile to initialize program
-- type 'make run filename' where filename is the name of the text file (example file is database.txt)
+- type 'make run filename' in console, where filename is the name of the text file (example file is database.txt)
 
 **How to format the text file**
 - Questions should be written with a 'Q: ' before them
