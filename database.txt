@@ -1,0 +1,10 @@
+Q: What do you declare a member variable if all objects of a class should share that variable?
+A: static
+Q: What is a member function called that is not a member of a class, but has access to the private members of the class?
+A: friend
+Q: What is the default copy behavior when an object is assigned the value of another object of the same class?
+A: Memberwise assignment
+Q: What keyword is used to access the built-in pointer that is automatically passed as a hidden argument to all non-static member functions?
+A: this
+Q: True or false (T/F)? Constructors have the return type void.
+A: F
